@@ -1,0 +1,10 @@
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\bin\Release\netcoreapp3.1\server.exe
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\bin\Release\netcoreapp3.1\server.deps.json
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\bin\Release\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\bin\Release\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\bin\Release\netcoreapp3.1\server.dll
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\bin\Release\netcoreapp3.1\server.pdb
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\obj\Release\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\obj\Release\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\obj\Release\netcoreapp3.1\server.dll
+C:\Users\Becia\Desktop\DS\MultiClientServer\UPD_Tester\server\server\obj\Release\netcoreapp3.1\server.pdb
